@@ -33,7 +33,7 @@
     
     background-repeat: no-repeat;
     
-     top: 50px;
+     top: 75px;
     
     left: 180px;
     
@@ -52,8 +52,8 @@
     }
     
     .texto{
-
-  
+        position: relative;
+       top: 80px;
     
     font-size: 40px;
     
